@@ -1,4 +1,4 @@
-module layeh.com/gumble
+module github.com/indiandennis/gumble
 
 go 1.12
 
